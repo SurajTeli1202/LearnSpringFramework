@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<GetCourseDetailsResponse xmlns:xsi="http://www.w3.org/2007/XMLSchema-versioning"
+                          xmlns="http://learnspringboot.com/courses"
+                          xsi:schemaLocation="http://learnspringboot.com/courses course-details.xsd">
+    <CourseDetails>
+        <id>123</id>
+        <name>Spring framework</name>
+        <description>Learning spring framework</description>
+    </CourseDetails>
+</GetCourseDetailsResponse>
